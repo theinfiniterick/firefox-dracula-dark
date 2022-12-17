@@ -1,1 +1,0 @@
-# firefox-dracula-dark
