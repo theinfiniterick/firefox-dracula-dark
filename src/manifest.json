@@ -1,0 +1,41 @@
+{
+    "manifest_version": 2,
+    "name": "Dracula Dark",
+    "version": "1.0.0",
+    "theme": {
+        "colors": {
+            "tab_selected": "#44475A",
+            "toolbar_field_border_focus": "#6272A4",
+            "tab_text": "#F8F8F2",
+            "toolbar_top_separator": "transparent",
+            "toolbar_field_focus": "#151723",
+            "sidebar_text": "#F8F8F2",
+            "toolbar_field_highlight_text": "#F8F8F2",
+            "toolbar_bottom_separator": "#282A36",
+            "frame": "#16151C",
+            "tab_background_text": "#F8F8F2",
+            "tab_loading": "#BD93F9",
+            "sidebar_border": "#373945",
+            "popup_text": "#F8F8F2",
+            "icons_attention": "#BD93F9",
+            "popup": "#282A36",
+            "toolbar_field_border": "transparent",
+            "ntp_text": "#F8F8F2",
+            "popup_border": "#373945",
+            "popup_highlight": "#BD93F9",
+            "sidebar_highlight": "#BD93F9",
+            "ntp_background": "#151723",
+            "toolbar_vertical_separator": "#B2B2C4",
+            "icons": "#F8F8F2",
+            "toolbar_field_text": "#F8F8F2",
+            "button_background_hover": "rgba(68, 71, 90, 0.69)",
+            "button_background_active": "#44475A",
+            "sidebar_highlight_text": "#F8F8F2",
+            "toolbar_field": "#151723",
+            "toolbar": "#282A36",
+            "tab_line": "#46495C",
+            "sidebar": "#282A36",
+            "toolbar_text": "#F8F8F2"
+        }
+    }
+}
